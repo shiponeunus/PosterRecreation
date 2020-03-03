@@ -1,0 +1,90 @@
+body{
+  display: flex;
+}
+.mainContainer{
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+}
+
+.TelepathyText{
+  display: flex;
+  align-items: center;
+  align-content: center;
+
+}
+.telepathy{
+  width: 60vmin;
+  align-items: center;
+  align-content: space-between;
+}
+.mainGraphic{
+  display: display;
+}
+.rave{
+  width: 70vmin;
+}
+.date{
+  display: flex;
+  width: 70vmin;
+  align-content: space-between;
+}
+h1{
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.7em;
+  color: #fde5a9;
+  text-align: center;
+}
+.location{
+  display: flex;
+  flex-direction:column;
+  width: 50vmin;
+
+}
+
+h2{
+  font-size: 1.5em;
+  color: #FF3178;
+  text-align: center;
+}
+p{
+  margin-top: 1vmin;
+  font-size: 1.2em;
+  color: #fde5a9;
+  text-align: center;
+}
+
+.bottomlogo{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items:center;
+  width: 15vmin;
+  background-color: #FF3178;
+}
+h3{
+  font-size: 6vmin;
+  font-stretch:  extra-expanded;
+  color: #FF3178;
+  background-color: black;
+  margin-left: 1vmin;
+  margin-right: 1vmin;
+  text-align: center;
+  margin-top: 2vmin;
+  margin-bottom: 0.5vmin;
+}
+
+h4{
+  font-size: 5.6vmin;
+  color: black;
+  text-align: center;
+  margin-top: 0vmin;
+  margin-bottom: 0vmin;
+}
+h5{
+  font-size: 7vmin;
+  color: black;
+  text-align: center;
+  margin-top: 0vmin;
+  margin-bottom: 0.1vmin;
+}
